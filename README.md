@@ -6,5 +6,7 @@
 ## Как запустить
 
 ```bash
+Использовать Python 3.11
 pip install pygame
 python main.py
+или воспользоваться exe файлом
